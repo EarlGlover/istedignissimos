@@ -1,0 +1,20 @@
+{
+  "name": "istedignissimos",
+  "version": "1.0.0",
+  "description": "A library of Baidu Map JS API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EarlGlover/istedignissimos.git"
+  },
+  "keywords": [
+    "baidu",
+    "laudantium",
+    "dolorum"
+  ],
+  "author": "ElyseOsinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EarlGlover/istedignissimos.git/issues"
+  }
+}
